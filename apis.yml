@@ -1,7 +1,33 @@
 aid: praxis-ai-2
-name: Praxis Ai 2
-description: Praxis Ai 2 is a company surfaced as a portfolio company of y-combinator and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/praxis-ai-2.png
+name: Praxis AI (Vortexify)
+description: >-
+  Praxis AI is a Y Combinator (Fall 2024) company that now operates as Vortexify
+  (vortexify.ai). Vortexify is an AI-native platform that generates operational
+  software directly from a company's data: teams connect data sources through 20+
+  prebuilt connectors (PostgreSQL, MySQL, SQL Server, MongoDB, BigQuery, Redshift,
+  Snowflake, NetSuite, Oracle, S3, Azure Blob, Google Sheets/Drive, SharePoint and
+  more), describe requirements in plain English, and AI agents plan, code, test and
+  deploy backend logic plus custom frontends with no infrastructure to manage. The
+  platform emphasizes building complete apps on operational data rather than just
+  dashboards, with built-in scheduling, serverless compute execution, role-based
+  access control, audit logs, sandboxed environments, token-based authentication,
+  and SOC 2 Type II compliance. Praxis AI was founded by Aditya Tewari (ex-Palantir)
+  and Ransika Liyanage (ex-Tesla, GM, Deloitte), originally focused on
+  manufacturing-specific AI agents for predicting and preventing machine failures.
+  This profile was surfaced as a portfolio company of Y Combinator. Vortexify does
+  not currently publish a public developer API, SDK, or OpenAPI specification.
 url: https://raw.githubusercontent.com/api-evangelist/praxis-ai-2/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +35,49 @@ x-backed-by:
 - y-combinator
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-rebrand:
+  former-name: Praxis AI
+  current-name: Vortexify
+  website: https://www.vortexify.ai
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Artificial Intelligence
+- No-Code
+- Data Integration
+- Application Development
+- AI Agents
+- Automation
+- Manufacturing
 apis: []
+common:
+- type: DomainSecurity
+  url: security/praxis-ai-2-domain-security.yml
+- type: Website
+  url: https://www.vortexify.ai
+- type: Documentation
+  url: https://www.vortexify.ai/docs
+- type: Pricing
+  url: https://www.vortexify.ai/pricing
+- type: SignUp
+  url: https://www.vortexify.app/create-account
+- type: Login
+  url: https://www.vortexify.app/sign-in/
+- type: Support
+  url: mailto:support@vortexify.ai
+- type: Compliance
+  url: https://www.vortexify.ai/security
+- type: LLMsTxt
+  url: llms/praxis-ai-2-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1

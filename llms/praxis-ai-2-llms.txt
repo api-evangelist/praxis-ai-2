@@ -1,0 +1,25 @@
+# Praxis AI (Vortexify)
+
+> Praxis AI is a Y Combinator (Fall 2024) company now operating as Vortexify (vortexify.ai). Vortexify is an AI-native platform that generates operational software directly from a company's data: connect data sources through 20+ prebuilt connectors, describe requirements in plain English, and AI agents plan, code, test, and deploy backend logic plus custom frontends with no infrastructure to manage. Vortexify does not currently publish a public developer API, SDK, or OpenAPI specification.
+
+## Product
+- [Vortexify homepage](https://www.vortexify.ai): AI-native platform that builds production apps on operational data.
+- [Documentation](https://www.vortexify.ai/docs): Core Concepts, Connectors, Tables, Apps, and Platform sections.
+- [Security](https://www.vortexify.ai/security): SOC 2 Type II compliance, role-based access, audit logs, sandboxed environments, token-based auth.
+- [Pricing](https://www.vortexify.ai/pricing): Starter, Team, Business, and Enterprise plans.
+
+## Get started
+- [Create account (free trial)](https://www.vortexify.app/create-account)
+- [Sign in](https://www.vortexify.app/sign-in/)
+
+## Connectors (documented)
+- Relational: PostgreSQL, MySQL, Microsoft SQL Server
+- NoSQL: MongoDB, Azure Table Storage
+- Warehouses: BigQuery, Redshift, Snowflake
+- ERP: NetSuite, Oracle
+- Object storage: Amazon S3, Azure Blob Storage
+- Files: Google Sheets, Google Drive, Microsoft OneDrive, Microsoft SharePoint
+
+## Notes
+- No public API, SDK, webhooks, or OpenAPI specification is published as of 2026-07-20.
+- Support: support@vortexify.ai
