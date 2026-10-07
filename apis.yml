@@ -64,6 +64,8 @@ tags:
 - Manufacturing
 apis: []
 common:
+- type: Plans
+  url: plans/praxis-ai-2-plans-pricing.yml
 - type: DomainSecurity
   url: security/praxis-ai-2-domain-security.yml
 - type: Website
