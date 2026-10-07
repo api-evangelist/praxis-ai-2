@@ -1,0 +1,54 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.vortexify.ai/pricing
+sources:
+- https://www.vortexify.ai/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-seat
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Per-builder plus per-operator seat pricing; Enterprise is Contact sales with private deployment
+  option.
+plan_count: 4
+currency: USD
+plans:
+- name: Starter
+  price_text: $10 / builder / mo
+  price: 10
+  currency: USD
+  period: month
+  unit: builder
+  included_quota: Up to 5 users, dataset uploads, limited agent capacity, standard compute capacity, support
+    tickets; Free for operators; 1st Month Free
+- name: Team
+  price_text: $20 / builder / mo
+  price: 20
+  currency: USD
+  period: month
+  unit: builder
+  included_quota: Everything in Starter, plus up to 25 users, file storage connectors, custom environments,
+    every 10-minute schedules, higher agent capacity, higher compute capacity, virtual support; operators
+    $10 / operator / mo
+- name: Business
+  price_text: $60 / builder / mo
+  price: 60
+  currency: USD
+  period: month
+  unit: builder
+  included_quota: Everything in Team, plus unlimited users, database connectors, unlimited agent capacity,
+    every 1-minute schedules, multiple workspaces, workspace permissions, max compute capacity, priority
+    virtual support, technical advisor access, professional services access; operators $15 / operator
+    / mo
+- name: Enterprise
+  price_text: Custom
+  period: none
+  included_quota: Everything in Business, plus private deployment, SOC 2 compliance, SSO, dedicated support,
+    dedicated infrastructure, custom scheduling and capacity limits
