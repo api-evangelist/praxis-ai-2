@@ -1,4 +1,4 @@
-# Praxis Ai 2
+# Praxis AI (Vortexify)
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,89 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Praxis Ai 2 is a company surfaced as a portfolio company of y-combinator and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Praxis AI is a Y Combinator (Fall 2024) company that now operates as Vortexify (vortexify.ai). Vortexify is an AI-native platform that generates operational software directly from a company's data: teams connect data sources through 20+ prebuilt connectors (PostgreSQL, MySQL, SQL Server, MongoDB, BigQuery, Redshift, Snowflake, NetSuite, Oracle, S3, Azure Blob, Google Sheets/Drive, SharePoint and more), describe requirements in plain English, and AI agents plan, code, test and deploy backend logic plus custom frontends with no infrastructure to manage. The platform emphasizes building complete apps on operational data rather than just dashboards, with built-in scheduling, serverless compute execution, role-based access control, audit logs, sandboxed environments, token-based authentication, and SOC 2 Type II compliance. Praxis AI was founded by Aditya Tewari (ex-Palantir) and Ransika Liyanage (ex-Tesla, GM, Deloitte), originally focused on manufacturing-specific AI agents for predicting and preventing machine failures. This profile was surfaced as a portfolio company of Y Combinator. Vortexify does not currently publish a public developer API, SDK, or OpenAPI specification.
 
-Backed by: y-combinator
+**Areas:** Company · Artificial Intelligence · No-Code · Data Integration · Application Development · AI Agents · Automation · Manufacturing
+
+## Praxis AI (Vortexify) on APIs.io
+
+Everything profiled for Praxis AI (Vortexify) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/praxis-ai-2/](https://apis.io/providers/praxis-ai-2/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Praxis Ai 2 Domain Security](https://apis.io/security/praxis-ai-2/praxis-ai-2-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Praxis Ai 2 Plans Pricing](https://apis.io/plans/praxis-ai-2/praxis-ai-2-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.vortexify.ai)
+- [Documentation](https://www.vortexify.ai/docs)
+- [Pricing](https://www.vortexify.ai/pricing)
+- [Sign up](https://www.vortexify.app/create-account)
+- [Compliance](https://www.vortexify.ai/security)
+
+## API Evangelist rating
+
+**Kin Score 19.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 56.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/praxis-ai-2/](https://apis.io/providers/praxis-ai-2/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Praxis AI (Vortexify): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/praxis-ai-2/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
